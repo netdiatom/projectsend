@@ -1,7 +1,5 @@
-# ProjectSend
+# This project is being adapted by Net Diatom by programmer Jeremy D Higgs 
 
-![ProjectSend logo](https://www.projectsend.org/projectsend-logo-new.png)
-This projectis being adapted by Net Diatom by programmer Jeremy D Higgs 
 ![netdiatom logo](https://netdiatom.org/assets/images/netdiatomvec-512x247.png)
 ## About
 
