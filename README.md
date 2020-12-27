@@ -1,20 +1,20 @@
 # ProjectSend
 
 ![ProjectSend logo](https://www.projectsend.org/projectsend-logo-new.png)
-
+This projectis being adapted by Net Diatom by programmer Jeremy D Higgs 
+![netdiatom logo](https://netdiatom.org/assets/images/netdiatomvec-512x247.png)
 ## About
 
-ProjectSend is a free, clients-oriented, private file sharing web application.
+Net Diatom Shared Drive uses coding from ProjectSend asopen source, clients-oriented, private file sharing web application.
 
 Clients are created and assigned a username and a password.  
 Uploaded files can be assigned to specific clients or clients groups.
 
 Other featres include auto-expiration of upload, notifications, full logging of actions by users and clients, option to allow clients to also upload files, themes, multiple languages...
 
-Main website: [projectsend.org](https://www.projectsend.org)  
-git: [current repository](https://github.com/projectsend/projectsend/)
+Main website: [netdiatom.org](https://www.netdiatom.org)  
+git: [current repository](https://github.com/netdiatom/projectsend)
 
-Feel free to participate!
 
 ## IMPORTANT
 
